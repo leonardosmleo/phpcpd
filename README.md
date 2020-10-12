@@ -1,7 +1,7 @@
 [![Latest Stable Version](https://poser.pugx.org/sebastian/phpcpd/v/stable.png)](https://packagist.org/packages/sebastian/phpcpd)
 [![Build Status](https://travis-ci.org/sebastianbergmann/phpcpd.png?branch=master)](https://travis-ci.org/sebastianbergmann/phpcpd)
 
-# PHP Copy/Paste Detector (PHPCPD)
+# PHP Copy/Paste Detector (PHPCPD) ***Portador de Deficiencia
 
 `phpcpd` is a Copy/Paste Detector (CPD) for PHP code.
 
